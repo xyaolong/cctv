@@ -1,176 +1,117 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
-https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1 ,CCTV2
-https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-#EXTINF:-1 ,CCTV3
-https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-#EXTINF:-1 ,CCTV4
-https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-#EXTINF:-1 ,CCTV5
-https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-#EXTINF:-1 ,CCTV5+
-https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-#EXTINF:-1 ,CCTV6
-https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-#EXTINF:-1 ,CCTV7
-https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-#EXTINF:-1 ,CCTV8
-https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-#EXTINF:-1 ,CCTV9
-https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-#EXTINF:-1 ,CCTV10
-https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-#EXTINF:-1 ,CCTV11
-https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-#EXTINF:-1 ,CCTV12
-https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-#EXTINF:-1 ,CCTV13
-https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-#EXTINF:-1 ,CCTV14
-https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-#EXTINF:-1 ,CCTV15
-https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-#EXTINF:-1 ,CCTV16
-https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-#EXTINF:-1 ,CCTV17
-https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-#EXTINF:-1 ,江苏卫视
-https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-#EXTINF:-1 ,广西卫视
-https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-#EXTINF:-1 ,四川卫视
-https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-#EXTINF:-1 ,湖南卫视
-https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-#EXTINF:-1 ,浙江卫视
-https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-#EXTINF:-1 ,东方卫视
-https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
+#EXTINF:-1 ,====== 央视,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,CCTV-1
+http://36.96.38.246:8888/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 ,CCTV-2
+http://36.96.38.246:8888/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 ,CCTV-3
+http://36.96.38.246:8888/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 ,CCTV-4
+http://36.96.38.246:8888/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 ,CCTV-5
+http://36.96.38.246:8888/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 ,CCTV-5+
+http://36.96.38.246:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 ,CCTV-6
+http://36.96.38.246:8888/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 ,CCTV-7
+http://36.96.38.246:8888/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 ,CCTV-8
+http://36.96.38.246:8888/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 ,CCTV-9
+http://36.96.38.246:8888/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 ,CCTV-10
+http://36.96.38.246:8888/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 ,CCTV-11
+http://36.96.38.246:8888/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 ,CCTV-12
+http://36.96.38.246:8888/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 ,CCTV-13
+http://36.96.38.246:8888/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 ,CCTV-14
+http://36.96.38.246:8888/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 ,CCTV-15
+http://36.96.38.246:8888/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 ,====== 卫视,#genre# ======
+http://1/1.m3u8
 #EXTINF:-1 ,北京卫视
-https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-#EXTINF:-1 ,天津卫视
-https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-#EXTINF:-1 ,辽宁卫视
-https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-#EXTINF:-1 ,安徽卫视
-https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-#EXTINF:-1 ,黑龙江卫视
-https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
+http://36.96.38.246:8888/newlive/live/hls/19/live.m3u8
+#EXTINF:-1 ,东方卫视
+http://36.96.38.246:8888/newlive/live/hls/20/live.m3u8
 #EXTINF:-1 ,广东卫视
-https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-#EXTINF:-1 ,深圳卫视
-https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-#EXTINF:-1 ,湖北卫视
-https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
-#EXTINF:-1 ,吉林卫视
-https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-#EXTINF:-1 ,山东卫视
-https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-#EXTINF:-1 ,江西卫视
-https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-#EXTINF:-1 ,河南卫视
-https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-#EXTINF:-1 ,河北卫视
-https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-#EXTINF:-1 ,甘肃卫视
-https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-#EXTINF:-1 ,重庆卫视
-https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-#EXTINF:-1 ,东南卫视
-https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
+http://36.96.38.246:8888/newlive/live/hls/21/live.m3u83
+#EXTINF:-1 ,江苏卫视
+http://36.96.38.246:8888/newlive/live/hls/22/live.m3u8
+#EXTINF:-1 ,湖南卫视
+http://36.96.38.246:8888/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 ,浙江卫视
+http://36.96.38.246:8888/newlive/live/hls/24/live.m3u8
+#EXTINF:-1 ,安徽卫视
+http://36.96.38.246:8888/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 ,广西卫视
+http://36.96.38.246:8888/newlive/live/hls/26/live.m3u8
 #EXTINF:-1 ,云南卫视
-https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
+http://36.96.38.246:8888/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 ,深圳卫视
+http://36.96.38.246:8888/newlive/live/hls/28/live.m3u8
 #EXTINF:-1 ,贵州卫视
-https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
+http://36.96.38.246:8888/newlive/live/hls/29/live.m3u8
+#EXTINF:-1 ,山东卫视
+http://36.96.38.246:8888/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 ,重庆卫视
+http://36.96.38.246:8888/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 ,四川卫视
+http://36.96.38.246:8888/newlive/live/hls/32/live.m3u8
+#EXTINF:-1 ,河南卫视
+http://36.96.38.246:8888/newlive/live/hls/33/live.m3u8
+#EXTINF:-1 ,湖北卫视
+http://36.96.38.246:8888/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 ,吉林卫视
+http://36.96.38.246:8888/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 ,甘肃卫视
+http://36.96.38.246:8888/newlive/live/hls/36/live.m3u8
+#EXTINF:-1 ,西藏卫视
+http://36.96.38.246:8888/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 ,新疆卫视
+http://36.96.38.246:8888/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 ,青海卫视
+http://36.96.38.246:8888/newlive/live/hls/39/live.m3u8
+#EXTINF:-1 ,宁夏卫视
+http://36.96.38.246:8888/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 ,陕西卫视
+http://36.96.38.246:8888/newlive/live/hls/41/live.m3u8
 #EXTINF:-1 ,海南卫视
-https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1 ,欢笑剧场
-https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
-#EXTINF:-1 ,劲爆体育
-https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
-#EXTINF:-1 ,快乐垂钓
-https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
-#EXTINF:-1 ,金鹰纪实
-https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
-#EXTINF:-1 ,戏曲精选
-https://live.goodiptv.club/api/bestv.php?id=xqjx8m/8000000
-#EXTINF:-1 ,上海第一财经
-https://live.goodiptv.club/api/bestv.php?id=dycjhd8m/8000000
-#EXTINF:-1 ,上视新闻
-https://live.goodiptv.club/api/bestv.php?id=xwzhhd8m/8000000
-#EXTINF:-1 ,上海都市
-https://live.goodiptv.club/api/bestv.php?id=dshd8m/8000000
-#EXTINF:-1 ,上海纪实
-https://live.goodiptv.club/api/bestv.php?id=jspdhd/4000000
-#EXTINF:-1 ,东方影视
-https://live.goodiptv.club/api/bestv.php?id=dfyshd8m/8000000
-#EXTINF:-1 ,五星体育
-https://live.goodiptv.club/api/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1 ,上视外语
-https://live.goodiptv.club/api/bestv.php?id=icshd8m/8000000
-#EXTINF:-1 ,七彩戏剧
-https://live.goodiptv.club/api/bestv.php?id=qcxjhd8m/8000000
-#EXTINF:-1 ,上海教育
-https://live.goodiptv.club/api/bestv.php?id=setvhd/8000000
-#EXTINF:-1 ,全纪实
-https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
-#EXTINF:-1 ,生活时尚
-https://live.goodiptv.club/api/bestv.php?id=shss8m/8000000
-#EXTINF:-1 ,新视觉
-https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
-#EXTINF:-1 ,游戏风云
-https://live.goodiptv.club/api/bestv.php?id=yxfy8m/8000000
-#EXTINF:-1 ,热门综艺
-https://live.goodiptv.club/api/bestv.php?id=rmzy8m/8000000
-#EXTINF:-1 ,超级体育
-https://live.goodiptv.club/api/bestv.php?id=qcsj8m/8000000
-#EXTINF:-1 ,健康养生
-https://live.goodiptv.club/api/bestv.php?id=jkys8m/8000000
-#EXTINF:-1 ,百变课堂
-https://live.goodiptv.club/api/bestv.php?id=bbkt8m/8000000
-#EXTINF:-1 ,看天下精选
-https://live.goodiptv.club/api/bestv.php?id=ktxjx8m/8000000
-#EXTINF:-1 ,华语影院
-https://live.goodiptv.club/api/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 ,电竞天堂
-https://live.goodiptv.club/api/bestv.php?id=djtt8m/8000000
-#EXTINF:-1 ,青春动漫
-https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1 ,宝宝动画
-https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
-#EXTINF:-1 ,星光影院
-https://live.goodiptv.club/api/bestv.php?id=xgyy8m/8000000
-#EXTINF:-1 ,谍战剧场
-https://live.goodiptv.club/api/bestv.php?id=dzjc8m/8000000
-#EXTINF:-1 ,全球大片
-https://live.goodiptv.club/api/bestv.php?id=qqdp8m/8000000
-#EXTINF:-1 ,热门剧场
-https://live.goodiptv.club/api/bestv.php?id=rmjc8m/8000000
-#EXTINF:-1 ,陶瓷高清
-https://live.goodiptv.club/api/bestv.php?id=taocihd/8000000
-#EXTINF:-1 ,中国教育-1
-https://live.goodiptv.club/api/bestv.php?id=zgjy1t8m/8000000
-#EXTINF:-1 ,中国教育-4
-https://live.goodiptv.club/api/bestv.php?id=zgjy4hd8m/8000000
-#EXTINF:-1 ,卡酷少儿
-https://live.goodiptv.club/api/bestv.php?id=kkse8m/8000000
-#EXTINF:-1 ,纪实科教
-https://live.goodiptv.club/api/bestv.php?id=dajs8m/8000000
-#EXTINF:-1 ,茶频道
-https://live.goodiptv.club/api/bestv.php?id=cpdhdavs8m/8000000
-#EXTINF:-1 ,足球高清
-https://live.goodiptv.club/api/bestv.php?id=zqpd8m/8000000
-#EXTINF:-1 ,炫动卡通
-https://live.goodiptv.club/api/bestv.php?id=hhxd8m/8000000
-#EXTINF:-1 ,东方财经
-https://live.goodiptv.club/api/bestv.php?id=dfcjhd8m/8000000
-#EXTINF:-1 ,都市剧场
-https://live.goodiptv.club/api/bestv.php?id=dsjc8m/8000000
-#EXTINF:-1 ,动漫秀场
-https://live.goodiptv.club/api/bestv.php?id=dmxc8m/8000000
-#EXTINF:-1 ,法治天地
-https://live.goodiptv.club/api/bestv.php?id=fztd8m/8000000
-#EXTINF:-1 ,金色学堂
-https://live.goodiptv.club/api/bestv.php?id=jingsepd8m/8000000
-
+http://36.96.38.246:8888/newlive/live/hls/42/live.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://36.96.38.246:8888/newlive/live/hls/43/live.m3u8
+#EXTINF:-1 ,东南卫视
+http://36.96.38.246:8888/newlive/live/hls/44/live.m3u8
+#EXTINF:-1 ,天津卫视
+http://36.96.38.246:8888/newlive/live/hls/45/live.m3u8
+#EXTINF:-1 ,江西卫视
+http://36.96.38.246:8888/newlive/live/hls/46/live.m3u8
+#EXTINF:-1 ,山西卫视
+http://36.96.38.246:8888/newlive/live/hls/47/live.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://36.96.38.246:8888/newlive/live/hls/48/live.m3u8
+#EXTINF:-1 ,内蒙古卫视
+http://36.96.38.246:8888/newlive/live/hls/49/live.m3u8
+#EXTINF:-1 ,河北卫视
+http://36.96.38.246:8888/newlive/live/hls/50/live.m3u8
+#EXTINF:-1 ,三沙卫视
+http://36.96.38.246:8888/newlive/live/hls/51/live.m3u8
+#EXTINF:-1 ,农林卫视
+http://36.96.38.246:8888/newlive/live/hls/52/live.m3u8
+#EXTINF:-1 ,====== 其他,#genre# ======
+http://2/2.m3u8
+#EXTINF:-1 ,XETV
+http://36.96.38.246:8888/newlive/live/hls/53/live.m3u8
+#EXTINF:-1 ,记实人文
+http://36.96.38.246:8888/newlive/live/hls/54/live.m3u8
+#EXTINF:-1 ,金鹰卡通
+http://36.96.38.246:8888/newlive/live/hls/55/live.m3u8
+#EXTINF:-1 ,嘉佳卡通
+http://36.96.38.246:8888/newlive/live/hls/56/live.m3u8
+#EXTINF:-1 ,哈哈炫动
+http://36.96.38.246:8888/newlive/live/hls/57/live.m3u8
