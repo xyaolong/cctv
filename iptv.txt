@@ -1,4 +1,3 @@
-央视,#genre#
 CCTV-1,http://36.96.38.246:8888/newlive/live/hls/2/live.m3u8
 CCTV-2,http://36.96.38.246:8888/newlive/live/hls/3/live.m3u8
 CCTV-3,http://36.96.38.246:8888/newlive/live/hls/4/live.m3u8
@@ -15,7 +14,6 @@ CCTV-12,http://36.96.38.246:8888/newlive/live/hls/14/live.m3u8
 CCTV-13,http://36.96.38.246:8888/newlive/live/hls/15/live.m3u8
 CCTV-14,http://36.96.38.246:8888/newlive/live/hls/16/live.m3u8
 CCTV-15,http://36.96.38.246:8888/newlive/live/hls/17/live.m3u8
-卫视,#genre#
 北京卫视,http://36.96.38.246:8888/newlive/live/hls/19/live.m3u8
 东方卫视,http://36.96.38.246:8888/newlive/live/hls/20/live.m3u8
 广东卫视,http://36.96.38.246:8888/newlive/live/hls/21/live.m3u83
@@ -50,7 +48,6 @@ CCTV-15,http://36.96.38.246:8888/newlive/live/hls/17/live.m3u8
 河北卫视,http://36.96.38.246:8888/newlive/live/hls/50/live.m3u8
 三沙卫视,http://36.96.38.246:8888/newlive/live/hls/51/live.m3u8
 农林卫视,http://36.96.38.246:8888/newlive/live/hls/52/live.m3u8
-其他,#genre#
 XETV,http://36.96.38.246:8888/newlive/live/hls/53/live.m3u8
 记实人文,http://36.96.38.246:8888/newlive/live/hls/54/live.m3u8
 金鹰卡通,http://36.96.38.246:8888/newlive/live/hls/55/live.m3u8
