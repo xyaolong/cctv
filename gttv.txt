@@ -1,0 +1,38 @@
+三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+新唐人TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+世界地理,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+天才街,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+台湾街景,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+大爱TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+LIVE三立,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+GBN,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+中视HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+FRANCE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+中视TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+凤凰卫视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+大爱TV2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+ANN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+中天新闻2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+KOREA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+KBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+动画片1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+动画片2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+中视TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+廉政英雄,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+TAIWAN,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+
+
