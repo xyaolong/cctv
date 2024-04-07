@@ -9,8 +9,6 @@ http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51
 http://111.11.98.205:9900/hls/4/index.m3u8
 #EXTINF:-1 ,CCTV5
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 ,CCTV5+
-http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576303.m3u8
 #EXTINF:-1 ,CCTV6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 ,CCTV7
@@ -47,12 +45,8 @@ http://111.11.98.205:9900/hls/21/index.m3u8
 http://111.11.98.205:9900/hls/22/index.m3u8
 #EXTINF:-1 ,河北农民
 http://111.11.98.205:9900/hls/24/index.m3u8
-#EXTINF:-1 ,河北睛彩
-http://111.11.98.205:9900/hls/26/index.m3u8
 #EXTINF:-1 ,邢台综合
 http://111.11.98.205:9900/hls/27/index.m3u8
-#EXTINF:-1 ,任泽-1
-http://111.11.98.205:9900/hls/28/index.m3u8
 #EXTINF:-1 ,湖南卫视
 http://111.11.98.205:9900/hls/30/index.m3u8
 #EXTINF:-1 ,浙江卫视
