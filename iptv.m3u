@@ -1,108 +1,47 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV1
-http://111.11.98.205:9900/hls/1/index.m3u8
+http://122.142.178.209:5000/hls/1/index.m3u8
 #EXTINF:-1 ,CCTV2
-http://111.11.98.205:9900/hls/2/index.m3u8
+http://122.142.178.209:5000/hls/2/index.m3u8
 #EXTINF:-1 ,CCTV3
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3
 #EXTINF:-1 ,CCTV4
-http://111.11.98.205:9900/hls/4/index.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3
 #EXTINF:-1 ,CCTV5
-https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3
+#EXTINF:-1 ,CCTV5+
+http://122.142.178.209:5000/hls/4/index.m3u8
 #EXTINF:-1 ,CCTV6
-https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3
 #EXTINF:-1 ,CCTV7
-http://111.11.98.205:9900/hls/7/index.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000024341/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3
 #EXTINF:-1 ,CCTV8
-https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/1000000005000265008/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265008&livemode=1&stbId=3
 #EXTINF:-1 ,CCTV9
-http://111.11.98.205:9900/hls/9/index.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
 #EXTINF:-1 ,CCTV10
-http://111.11.98.205:9900/hls/10/index.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/5000000004000012827/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3
 #EXTINF:-1 ,CCTV11
-http://111.11.98.205:9900/hls/11/index.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
 #EXTINF:-1 ,CCTV12
-http://111.11.98.205:9900/hls/12/index.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/1000000001000032494/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3
 #EXTINF:-1 ,CCTV13
-http://111.11.98.205:9900/hls/13/index.m3u8
-#EXTINF:-1 ,CCTV14
-http://111.11.98.205:9900/hls/14/index.m3u8
-#EXTINF:-1 ,CCTV15
-http://111.11.98.205:9900/hls/15/index.m3u8
-#EXTINF:-1 ,CGTN
-http://111.11.98.205:9900/hls/16/index.m3u8
-#EXTINF:-1 ,CCTV17
-http://111.11.98.205:9900/hls/17/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://111.11.98.205:9900/hls/18/index.m3u8
-#EXTINF:-1 ,河北经生
-http://111.11.98.205:9900/hls/19/index.m3u8
-#EXTINF:-1 ,河北都市
-http://111.11.98.205:9900/hls/20/index.m3u8
-#EXTINF:-1 ,河北影视
-http://111.11.98.205:9900/hls/21/index.m3u8
-#EXTINF:-1 ,河北少儿
-http://111.11.98.205:9900/hls/22/index.m3u8
-#EXTINF:-1 ,河北农民
-http://111.11.98.205:9900/hls/24/index.m3u8
-#EXTINF:-1 ,邢台综合
-http://111.11.98.205:9900/hls/27/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://111.11.98.205:9900/hls/30/index.m3u8
-#EXTINF:-1 ,浙江卫视
-http://111.11.98.205:9900/hls/31/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://111.11.98.205:9900/hls/32/index.m3u8
+http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
 #EXTINF:-1 ,北京卫视
-http://111.11.98.205:9900/hls/33/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://111.11.98.205:9900/hls/34/index.m3u8
+http://122.142.178.209:5000/hls/9/index.m3u8
+#EXTINF:-1 ,湖南卫视
+http://122.142.178.209:5000/hls/10/index.m3u8
 #EXTINF:-1 ,天津卫视
-http://111.11.98.205:9900/hls/35/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://111.11.98.205:9900/hls/36/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://111.11.98.205:9900/hls/37/index.m3u8
+http://122.142.178.209:5000/hls/11/index.m3u8
+#EXTINF:-1 ,江苏卫视
+http://122.142.178.209:5000/hls/12/index.m3u8
 #EXTINF:-1 ,广东卫视
-http://111.11.98.205:9900/hls/38/index.m3u8
+http://122.142.178.209:5000/hls/13/index.m3u8
 #EXTINF:-1 ,黑龙江卫视
-http://111.11.98.205:9900/hls/39/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://111.11.98.205:9900/hls/40/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://111.11.98.205:9900/hls/41/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://111.11.98.205:9900/hls/42/index.m3u8
-#EXTINF:-1 ,四川卫视
-http://111.11.98.205:9900/hls/43/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://111.11.98.205:9900/hls/44/index.m3u8
-#EXTINF:-1 ,河南卫视
-http://111.11.98.205:9900/hls/45/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://111.11.98.205:9900/hls/46/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://111.11.98.205:9900/hls/47/index.m3u8
+http://122.142.178.209:5000/hls/14/index.m3u8
+#EXTINF:-1 ,山东卫视
+http://122.142.178.209:5000/hls/15/index.m3u8
+#EXTINF:-1 ,东方卫视
+http://122.142.178.209:5000/hls/16/index.m3u8
 #EXTINF:-1 ,东南卫视
-http://111.11.98.205:9900/hls/48/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://111.11.98.205:9900/hls/49/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://111.11.98.205:9900/hls/50/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://111.11.98.205:9900/hls/51/index.m3u8
-#EXTINF:-1 ,陕西卫视
-http://111.11.98.205:9900/hls/52/index.m3u8
-#EXTINF:-1 ,山西卫视
-http://111.11.98.205:9900/hls/53/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://111.11.98.205:9900/hls/54/index.m3u8
-#EXTINF:-1 ,青海卫视
-http://111.11.98.205:9900/hls/55/index.m3u8
-#EXTINF:-1 ,都市剧场
-http://111.11.98.205:9900/hls/56/index.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://111.11.98.205:9900/hls/57/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://111.11.98.205:9900/hls/58/index.m3u8
-
+http://122.142.178.209:5000/hls/17/index.m3u8
