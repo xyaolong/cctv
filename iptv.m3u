@@ -1,37 +1,29 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV-1
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
-#EXTINF:-1 ,CCTV-2
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
-#EXTINF:-1 ,CCTV-3
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-#EXTINF:-1 ,CCTV-4
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
-#EXTINF:-1 ,CCTV-5
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
-#EXTINF:-1 ,CCTV-5+
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
-#EXTINF:-1 ,CCTV-6
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/index.m3u8
-#EXTINF:-1 ,CCTV-7
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
-#EXTINF:-1 ,CCTV-8
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-#EXTINF:-1 ,CCTV-9
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
-#EXTINF:-1 ,CCTV-10
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
-#EXTINF:-1 ,CCTV-11
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 ,CCTV-12
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/index.m3u8
-#EXTINF:-1 ,CCTV-13
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
-#EXTINF:-1 ,CCTV-14
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/index.m3u8
-#EXTINF:-1 ,CCTV-15
-http://[2409:8087:7008:20::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
-#EXTINF:-1 ,CCTV-16
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
-#EXTINF:-1 ,CCTV-17
-http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
+#EXTINF:-1 ,CCTV1
+http://58.214.188.75:5001/tsfile/live/0001_1.m3u8
+#EXTINF:-1 ,CCTV2
+http://58.214.188.75:5001/tsfile/live/0002_1.m3u8
+#EXTINF:-1 ,CCTV3
+http://58.214.188.75:5001/tsfile/live/0003_1.m3u8
+#EXTINF:-1 ,CCTV4
+http://106.53.99.30/dl/bjyd.php?id=3
+#EXTINF:-1 ,CCTV6
+http://58.214.188.75:5001/tsfile/live/0006_1.m3u8
+#EXTINF:-1 ,CCTV7
+http://58.214.188.75:5001/tsfile/live/0007_1.m3u8
+#EXTINF:-1 ,CCTV8
+http://58.214.188.75:5001/tsfile/live/0008_1.m3u8
+#EXTINF:-1 ,CCTV9
+http://58.214.188.75:5001/tsfile/live/0009_1.m3u8
+#EXTINF:-1 ,CCTV10
+http://58.214.188.75:5001/tsfile/live/0010_1.m3u8
+#EXTINF:-1 ,CCTV11
+http://106.53.99.30/dl/bjyd.php?id=7
+#EXTINF:-1 ,CCTV12
+http://58.214.188.75:5001/tsfile/live/0012_1.m3u8
+#EXTINF:-1 ,CCTV13
+http://58.214.188.75:5001/tsfile/live/0013_1.m3u8
+#EXTINF:-1 ,CCTV14
+http://58.214.188.75:5001/tsfile/live/0014_1.m3u8
+#EXTINF:-1 ,CCTV15
+http://58.214.188.75:5001/tsfile/live/0015_1.m3u8
